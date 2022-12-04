@@ -1,0 +1,110 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: ;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: ;
+}
+/*header-section code start*/
+.header-section{
+	width: 100%;
+}
+.header-section .navbar{
+	width: 100%;
+	background: #7FFFD4;
+}
+.header-section .navbar-brand{
+	width: 100%;
+}
+.header-section .navbar-brand img{
+	width: 80px;
+}
+.header-section .navbar .form-control{
+	background: transparent;
+}
+/* about section code start */
+.about-24{
+	width: 100%;
+	margin: 80px 0px;
+}
+.about-24 h2{
+	font-size: 30px;
+    line-height: 40px;
+    font-weight: 700;
+    margin: 0px 0px 10px;
+    color: #506a85;
+    text-align: center;
+}
+.about-24 p{
+	font-size: 24px;
+    line-height: 34px;
+    font-weight: 600;
+    text-align: center;
+    color: #a3b1bf;
+}
+.about-24 img{
+	width: 100%;
+	padding: 0px 0px 0px 170px;
+}
+/*developer css start*/
+.developer{
+	width: 100%;
+	padding: 70px 0px;
+}
+.developer h1{
+	font-size: 50px;
+    line-height: 60px;
+    font-weight: 700;
+    margin: 0px 0px 10px;
+    color: #506a85;
+    text-align: center;
+}
+.developer .developer-gap{
+	margin: 100px;
+	text-align: center;
+}
+.developer .developer-gap h4{
+	font-size: 35px;
+    line-height: 45px;
+    font-weight: 700;
+    margin: 0px 0px 10px;
+    color: #506a85;
+    text-align: center;
+}
+.developer .developer-gap h5{
+	font-size: 20px;
+    line-height: 30px;
+    font-weight: 700;
+    margin: 0px 0px 10px;
+    color: #506a85;
+    text-align: center;
+}
+.developer .developer-gap p{
+	font-size: 24px;
+    line-height: 34px;
+    font-weight: 600;
+    text-align: center;
+    color: #a3b1bf;
+}
+/* footer css start */
+.footer{
+	width: 100%;
+	padding: 40px 0px 30px;
+	background: #15141a;
+}
+.footer .footer-inner{
+	width: 100%;
+	text-align: center;
+}
+.footer p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 500;
+	text-align: center;
+	color: #999;
+	margin: 0px;
+	text-transform: uppercase;
+}

@@ -1,0 +1,123 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: ;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: ;
+}
+/*header-section code start*/
+.header-section{
+	width: 100%;
+}
+.header-section .navbar{
+	width: 100%;
+	background: #7FFFD4;
+}
+.header-section .navbar-brand{
+	width: 100%;
+}
+.header-section .navbar-brand img{
+	width: 80px;
+}
+.header-section .navbar .form-control{
+	background: transparent;
+}
+/*pricing css start*/
+.pricing{
+	width: 100%;
+	padding: 70px 0px;
+}
+.pricing .pricing-gap{
+	padding: 0px 0px 20px;
+}
+.pricing .title{
+	width: 100%;
+	padding: 0px 0px 80px;
+	text-align: center;
+}
+.pricing-table{
+	width: 100%;
+	/*padding: 40px 0px;*/
+	border: 1px solid #eee;
+	text-align: center;
+}
+.pricing-table .main-price{
+	width: 100%;
+	padding: 40px 0px;
+	border-bottom: 1px solid #eee;
+	transition: 1s;
+}
+.pricing-table .main-price h2{
+	font-size: 50px;
+	font-weight:600;
+	line-height: 60px;
+	color: #000;
+	margin: 0px;
+}
+.pricing-table .main-price h2 sup{
+	font-size: 26px;
+    font-weight: 700;	
+}
+.pricing-table .main-price p{
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 26px;
+	color: #999999;
+	margin: -5px 0px 0px;
+}
+.pricing-table .price-contant{
+	width: 100%;
+    padding: 40px 31px 30px;
+}
+.pricing-table .price-contant .btn{
+	background: transparent;
+    color: #008ed6;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 10px 35px;
+    border: 1px solid #eee;
+    border-radius: 3px;
+    transition: 1s;
+}
+.pricing-table .price-contant:hover .btn{
+	color: #fff;
+	background: #008ed6;
+	border: 1px solid #008ed6;
+}
+.pricing-table .price-contant .btn:focus{
+	color: #fff;
+	background: #008ed6;
+	border: 1px solid #008ed6;
+}
+.pricing-table:hover .main-price{
+	background: #008ed6;
+}
+.pricing-table:hover .main-price h2{
+	color: #fff;
+}
+.pricing-table:hover .main-price h2 sup{
+	color: #fff;
+}
+.pricing-table:hover .main-price p{
+	color: #fff;
+}
+/* footer css start */
+.footer{
+	width: 100%;
+	padding: 40px 0px 30px;
+	background: #15141a;
+}
+.footer p{
+	font-size: 14px;
+	line-height: 24px;
+	font-weight: 500;
+	text-align: center;
+	color: #999;
+	margin: 0px;
+	text-transform: uppercase;
+}

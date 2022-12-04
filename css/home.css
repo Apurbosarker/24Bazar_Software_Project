@@ -1,0 +1,77 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: ;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: ;
+}
+/* login section code start */
+.login-section{
+	width: 100%;
+}
+.login-box{
+	width: 600px;
+	margin: 130px auto;
+	background: #7FFFD4;
+	padding: 60px;
+	border: 1px solid #000;
+	border-radius: 10px;
+}
+.avater{
+	width: 100%;
+	text-align: center;
+}
+.avater img{
+	width: 150px;
+	height: 150px;
+	border: 1px solid #000;
+	border-radius: 5%;
+}
+.login-box h1{
+	text-align: center;
+	font-size: 28px;
+	line-height: 38px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding: 25px 0px;
+}
+.login-form{
+	width: 100%;
+}
+.form-group{
+	width: 100%;
+	margin: 15px 0px;
+}
+.form-group label{
+	font-size: 18px;
+	font-weight: 500;
+	display: block;
+	margin: 0px 0px 5px;
+	text-transform: uppercase;
+}
+.form-group .form-control{
+	width: 100%;
+    padding: 10px 0px;
+    font-size: 14px;
+    color: #000;
+    border: 1px solid #7FFF00
+}
+.form-group .btn{
+	padding: 15px 45px;
+    font-size: 16px;
+    color: #FFF;
+    background: #000;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: 1px solid #fff;
+}
+.butn{
+	width: 100%;
+	text-align: center;
+}
+.header-section{
+	width: 100%;
+}
