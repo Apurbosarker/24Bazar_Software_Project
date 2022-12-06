@@ -2,12 +2,7 @@
 	padding: 0px;
 	margin: 0px;
 }
-body{
-	font-family: ;
-}
-h1, h2, h3, h4, h5, h6{
-	font-family: ;
-}
+
 /* login section code start */
 .login-section{
 	width: 100%;
@@ -75,3 +70,4 @@ h1, h2, h3, h4, h5, h6{
 .header-section{
 	width: 100%;
 }
+
