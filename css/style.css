@@ -18,13 +18,13 @@
 	width: 80px;
 }
 .header-section .navbar .form-control{
-	background: transparent;
+	background: light;
 }
 /*catagoris section code start*/
 .catagoris{
 	width: 100%;
 	padding: 40px 0px;
-	background: #f2f5f7;
+	background: #e8ebec;
 }
 .catagoris .title{
 	width: 100%;
